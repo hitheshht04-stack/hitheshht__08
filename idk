@@ -1,0 +1,8 @@
+mkdir "hithesh"
+cd "hithesh"
+git init
+touch demo.txt 
+git add demo.txt 
+git add . 
+git commit -m " hello "
+git status 
